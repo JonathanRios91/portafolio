@@ -158,3 +158,102 @@ body{
     }
 
 }
+
+/* ========================= */
+/* CERTIFICADOS */
+/* ========================= */
+
+.buscador{
+
+    width:100%;
+    padding:15px;
+
+    border-radius:10px;
+
+    border:2px solid var(--color-heder);
+
+    background:white;
+
+    font-size:1rem;
+
+    margin:25px 0;
+
+    font-family:var(--fuente-montserrat);
+
+}
+
+.contenedor-certificados{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:25px;
+
+}
+
+.card-certificado{
+
+    background:white;
+
+    border-radius:15px;
+
+    padding:25px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+.card-certificado:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.card-certificado h3{
+
+    color:var(--color-heder);
+
+    font-size:1.4rem;
+
+    margin-bottom:10px;
+
+}
+
+.card-certificado p{
+
+    margin-bottom:20px;
+
+}
+
+.botones-certificado{
+
+    display:flex;
+
+    gap:15px;
+
+}
+
+.btn-certificado{
+
+    text-decoration:none;
+
+    background:var(--color-heder);
+
+    color:white;
+
+    padding:10px 18px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+}
+
+.btn-certificado:hover{
+
+    opacity:.85;
+
+}
