@@ -1,24 +1,52 @@
 [
     {
         "id": 1,
-        "nombre": "Principiante en Programación G7 - ONE",
-        "institucion": "Alura Latam",
-        "categoria": "Programación",
-        "horas": 70,
-        "fecha": "2024-agosto-27",
-        "archivo": "01_Principiante_en_Programación_G7_ONE.pdf",
-        "descripcion": "Lógica de programación con JavaScript, funciones y listas, ChatGPT, estructura de archivos y tags, Clases Posicionamiento y Flexbox, header, footer y variables CSS,trabajando con responsividad y publicación de proyectos "
+        "nombre": "03 Aprender a aprender tecnicas para tu autodesarrollo Alura (19 jul 2024)",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "03 -Aprender a aprender_ tecnicas para tu autodesarrollo - Alura (19-jul-2024).pdf"
     },
-
     {
         "id": 2,
-        "nombre": "02_Lógica_de_programación_con_JavaScript_Alura",
-        "institucion": "Alura Latam",
-        "categoria": "JavaScript",
-        "horas": 8,
-        "fecha": "2024-julio-09",
-        "archivo": "02_Lógica_de_programación_con_JavaScript_Alura.pdf",
-        "descripcion": "Iniciando con JavaScript, Condicionales y concatenación, Loops y tentativas, Buenas prácticas en programación, Desafío."
+        "nombre": "Certificado completo Alura Latam",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "Certificado_completo_Alura_Latam.pdf"
+    },
+    {
+        "id": 3,
+        "nombre": "01 Principiante en Programación G7 ONE",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "01_Principiante_en_Programación_G7_ONE.pdf"
+    },
+    {
+        "id": 4,
+        "nombre": "02 Lógica de programación con JavaScript Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "02_Lógica_de_programación_con_JavaScript_Alura.pdf"
+    },
+    {
+        "id": 5,
+        "nombre": "04 Lógica de programación explorar funciones y listas Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "04 - Lógica de programación_ explorar funciones y listas - Alura.pdf"
     }
-
 ]
