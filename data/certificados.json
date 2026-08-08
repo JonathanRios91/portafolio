@@ -1,6 +1,116 @@
 [
     {
         "id": 1,
+        "nombre": "20 Java Challenge Conversor de Monedas Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "20 - Java_ Challenge Conversor de Monedas - Alura.pdf"
+    },
+    {
+        "id": 2,
+        "nombre": "17 Java aplicando la Orientación a Objetos Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "17 - Java_ aplicando la Orientación a Objetos - Alura.pdf"
+    },
+    {
+        "id": 3,
+        "nombre": "19 Java consumir API, escribir archivos y manejar errores Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "19 - Java_ consumir API, escribir archivos y manejar errores - Alura.pdf"
+    },
+    {
+        "id": 4,
+        "nombre": "16 Java creando tu primera aplicación Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "16 - Java_ creando tu primera aplicación - Alura.pdf"
+    },
+    {
+        "id": 5,
+        "nombre": "18 Java trabajar con listas y colecciones de datos Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "18 - Java_ trabajar con listas y colecciones de datos - Alura.pdf"
+    },
+    {
+        "id": 6,
+        "nombre": "23 Spring Boot 3 desarrollar una API Rest en Java Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "23 - Spring Boot 3_ desarrollar una API Rest en Java - Alura.pdf"
+    },
+    {
+        "id": 7,
+        "nombre": "22 Java persistencia de datos y consultas con Spring Data JPA Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "22 - Java_ persistencia de datos y consultas con Spring Data JPA - Alura.pdf"
+    },
+    {
+        "id": 8,
+        "nombre": "21 Java trabajando con lambdas, streams y Spring Framework Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "21 - Java_ trabajando con lambdas, streams y Spring Framework - Alura.pdf"
+    },
+    {
+        "id": 9,
+        "nombre": "24 Spring Boot 3 aplique las mejores prácticas y proteja una API Rest Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "24 - Spring Boot 3_ aplique las mejores prácticas y proteja una API Rest - Alura.pdf"
+    },
+    {
+        "id": 10,
+        "nombre": "14 LinkedIn Como hacer que tu perfil trabaje por ti Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "14 -  LinkedIn_ Como hacer que tu perfil trabaje por ti - Alura.pdf"
+    },
+    {
+        "id": 11,
+        "nombre": "15 Desarrollo Personal G7 ONE",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "15 - Desarrollo Personal G7 - ONE.pdf"
+    },
+    {
+        "id": 12,
         "nombre": "03 Aprender a aprender tecnicas para tu autodesarrollo Alura (19 jul 2024)",
         "institucion": "Por completar",
         "categoria": "Por completar",
@@ -10,7 +120,27 @@
         "archivo": "03 -Aprender a aprender_ tecnicas para tu autodesarrollo - Alura (19-jul-2024).pdf"
     },
     {
-        "id": 2,
+        "id": 13,
+        "nombre": "13 Foco Enfocarse trae más resultados para el día a día Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "13 - Foco_ Enfocarse trae más resultados para el día a día - Alura.pdf"
+    },
+    {
+        "id": 14,
+        "nombre": "08 Hábitos Ser productivo para cumplir sus metas personales Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "08 - Hábitos_ Ser productivo para cumplir sus metas personales - Alura.pdf"
+    },
+    {
+        "id": 15,
         "nombre": "Certificado completo Alura Latam",
         "institucion": "Por completar",
         "categoria": "Por completar",
@@ -20,7 +150,7 @@
         "archivo": "Certificado_completo_Alura_Latam.pdf"
     },
     {
-        "id": 3,
+        "id": 16,
         "nombre": "01 Principiante en Programación G7 ONE",
         "institucion": "Por completar",
         "categoria": "Por completar",
@@ -30,7 +160,7 @@
         "archivo": "01_Principiante_en_Programación_G7_ONE.pdf"
     },
     {
-        "id": 4,
+        "id": 17,
         "nombre": "02 Lógica de programación con JavaScript Alura",
         "institucion": "Por completar",
         "categoria": "Por completar",
@@ -40,7 +170,7 @@
         "archivo": "02_Lógica_de_programación_con_JavaScript_Alura.pdf"
     },
     {
-        "id": 5,
+        "id": 18,
         "nombre": "04 Lógica de programación explorar funciones y listas Alura",
         "institucion": "Por completar",
         "categoria": "Por completar",
@@ -48,5 +178,75 @@
         "fecha": "",
         "descripcion": "",
         "archivo": "04 - Lógica de programación_ explorar funciones y listas - Alura.pdf"
+    },
+    {
+        "id": 19,
+        "nombre": "05 HTML y CSS ambientes de desarrollo, estructura de archivos y tags Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "05 - HTML y CSS_ ambientes de desarrollo, estructura de archivos y tags - Alura.pdf"
+    },
+    {
+        "id": 20,
+        "nombre": "06 HTML y CSS Clases, Posicionamiento y Flexbox Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "06 - HTML y CSS_ Clases, Posicionamiento y Flexbox - Alura.pdf"
+    },
+    {
+        "id": 21,
+        "nombre": "07 HTML y CSS header, footer y variables CSS Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "07 - HTML y CSS_ header, footer y variables CSS - Alura.pdf"
+    },
+    {
+        "id": 22,
+        "nombre": "09 HTML y CSS trabajando con responsividad y publicación de proyectos Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "09 - HTML y CSS_ trabajando con responsividad y publicación de proyectos - Alura.pdf"
+    },
+    {
+        "id": 23,
+        "nombre": "10 Git y GitHub repositorio, commit y versiones Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "10 - Git y GitHub_ repositorio, commit y versiones - Alura.pdf"
+    },
+    {
+        "id": 24,
+        "nombre": "12 ChatGPT optimizando la calidad de los resultados Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "12 - ChatGPT_ optimizando la calidad de los resultados - Alura.pdf"
+    },
+    {
+        "id": 25,
+        "nombre": "11 Formación Lógica de programación con JavaScript Alura",
+        "institucion": "Por completar",
+        "categoria": "Por completar",
+        "horas": "",
+        "fecha": "",
+        "descripcion": "",
+        "archivo": "11 - Formación Lógica de programación con JavaScript - Alura.pdf"
     }
 ]
